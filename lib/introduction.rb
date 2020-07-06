@@ -3,4 +3,4 @@ def introduction(name)
   puts "Hello, #{name}"
 end 
 
-phraseMethod("Doug")
+introduction("Doug")
