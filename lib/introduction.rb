@@ -1,5 +1,5 @@
 
-def phraseMethod(name)
+def introduction(name)
   puts "Hello, #{name}"
 end 
 
